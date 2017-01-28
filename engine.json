@@ -4,7 +4,7 @@
   "engineFactory": "org.template.recommendation.RecommendationEngine",
   "datasource": {
     "params" : {
-      "appName": "javadase"
+      "appName": "alvinzhu"
     }
   },
   "algorithms": [
@@ -15,7 +15,7 @@
         "rank": 10,
         "iteration": 10,
         "lambda": 0.01,
-        "appName": "javadase",
+        "appName": "alvinzhu",
         "similarItemEvents": ["view"],
         "seenItemEvents": ["buy", "view"],
         "unseenOnly": true
